@@ -1,3 +1,3 @@
 # test-new
 
-Test push 6
+Test push 2
